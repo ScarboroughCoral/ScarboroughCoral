@@ -7,8 +7,7 @@ Here are some ideas to get you started:
 
 
 -->
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
-- 🔭 I’m currently working on [猿辅导](https://www.yuanfudao.com/) 
+- 🔭 I’m currently working on [Yuan Fu Dao](https://www.yuanfudao.com/) 
 - 🌱 I’m currently learning Computer Graphics
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with Advanced Mathematics
