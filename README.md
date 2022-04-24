@@ -1,5 +1,6 @@
 ### I'm Mingyue Li 🥇
 
+* Graduated from HIT in 2020
 * Currently living in Beijing, China. 🇨🇳🇨🇳🇨🇳
 * The Open-Source Enthusiast. 🚀🚀🚀
 
