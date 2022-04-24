@@ -1,13 +1,17 @@
 ### I'm Mingyue Li 🥇
 
-* Graduated from HIT in 2020
+* Graduated from Harbin Institute of Technology in 2020. 🚀🚀🚀
 * Currently living in Beijing, China. 🇨🇳🇨🇳🇨🇳
-* The Open-Source Enthusiast. 🚀🚀🚀
+* The Open-Source Enthusiast. 💻💻💻
 
 ### Tech Stack
 
 - Web Development: Typescript, Rust
 - Software Development: Electron
+
+### Interested in
+
+- Functional DDD
 
 My Home Page: [https://scarboroughcoral.github.io/](https://scarboroughcoral.github.io/)
 
