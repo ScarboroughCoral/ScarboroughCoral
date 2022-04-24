@@ -1,6 +1,6 @@
 ### I'm Mingyue Li 🥇
 
-* currently living in Beijing, China. 🇨🇳🇨🇳🇨🇳
+* Currently living in Beijing, China. 🇨🇳🇨🇳🇨🇳
 * The Open-Source Enthusiast. 🚀🚀🚀
 
 ### Tech Stack
