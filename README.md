@@ -6,7 +6,7 @@
 
 ### Tech Stack
 
-- Web Development: Typescript, Rust
+- Web Development: Typescript
 - Software Development: Electron
 
 ### Interested in
