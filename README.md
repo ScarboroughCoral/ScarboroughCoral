@@ -18,7 +18,7 @@ My Home Page: [https://scarboroughcoral.github.io/](https://scarboroughcoral.git
 
 
 <p align="center">
-<img src="https://www.codewars.com/users/Scarborough_Coral/badges/large"/>
+  <a href="https://www.codewars.com/users/Scarborough_Coral" target="_blank"><img src="https://www.codewars.com/users/Scarborough_Coral/badges/large"/></a>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScarboroughCoral&theme=prussian&hide=html,css,dockerfile,shell,ejs,stylus,javascript,vue&langs_count=10&count_private=true&show_icons=true&hide_border=true&layout=compact"/>
