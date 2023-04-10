@@ -11,7 +11,11 @@
 
 ### Interested in
 
+- Category Theory
 - Functional DDD
+- Haskell
+- Typescript
+- Programming Language Theory
 
 My Home Page: [https://scarboroughcoral.github.io/](https://scarboroughcoral.github.io/)
 
