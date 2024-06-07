@@ -6,16 +6,17 @@
 
 ### Tech Stack
 
-- Web Development: Typescript
+- Web Development: React、Angular、Typescript、Redux
 - Software Development: Electron
 
 ### Interested in
 
 - Category Theory
 - Functional DDD
-- Haskell
-- Typescript
 - Programming Language Theory
+- Haskell
+- Rust
+- Typescript
 
 My Home Page: [https://scarboroughcoral.github.io/](https://scarboroughcoral.github.io/)
 
