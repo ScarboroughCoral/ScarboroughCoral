@@ -6,8 +6,14 @@
 
 ### Tech Stack
 
-- Web Development: React、Angular、Typescript、Redux
+- Web Development: React/Angular/Typescript/Redux
 - Software Development: Electron
+
+### Beginner
+
+- Web3: Solidity
+- Game: Cocos/Unity
+- Native App: Tauri/Android
 
 ### Interested in
 
