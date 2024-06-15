@@ -6,14 +6,15 @@
 
 ### Tech Stack
 
-- Web Development: React/Angular/Typescript/Redux
-- Software Development: Electron
+- Web Frontend Development: React/Angular/Typescript/Redux
+- Software Development: Electron/NodeJS
 
-### Beginner
+### Junior
 
 - Web3: Solidity
 - Game: Cocos/Unity
 - Native App: Tauri/Android
+- Web: NestJS/SpringBoot
 
 ### Interested in
 
