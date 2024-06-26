@@ -1,4 +1,4 @@
-### I'm Mingyue Li 🥇
+### I'm Coral 🥇
 
 * Graduated from Harbin Institute of Technology in 2020. 🚀🚀🚀
 * Currently living in Beijing, China. 🇨🇳🇨🇳🇨🇳
@@ -12,7 +12,7 @@
 ### Junior
 
 - Web3: Solidity
-- Game: Cocos/Unity
+- Game: Cocos/Unity/Bevy
 - Native App: Tauri/Android
 - Web: NestJS/SpringBoot
 
