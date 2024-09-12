@@ -38,4 +38,5 @@ My Home Page: [https://scarboroughcoral.github.io/](https://scarboroughcoral.git
   <img src="https://github-readme-stats.vercel.app/api?username=ScarboroughCoral&count_private=true&show_icons=true&theme=prussian&include_all_commits=true&hide_border=true"/>
 </p>
 
+### Visitor Count
 ![](https://profile-counter.glitch.me/scarboroughcoral/count.svg)
