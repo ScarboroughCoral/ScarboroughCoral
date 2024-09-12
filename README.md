@@ -24,6 +24,7 @@
 - Haskell
 - Rust
 - Typescript
+- Web3
 
 My Home Page: [https://scarboroughcoral.github.io/](https://scarboroughcoral.github.io/)
 
@@ -36,3 +37,5 @@ My Home Page: [https://scarboroughcoral.github.io/](https://scarboroughcoral.git
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScarboroughCoral&theme=prussian&hide=html,css,dockerfile,shell,ejs,stylus,javascript,vue,perl,asp,makefile&langs_count=10&count_private=true&show_icons=true&hide_border=true&layout=compact"/>
   <img src="https://github-readme-stats.vercel.app/api?username=ScarboroughCoral&count_private=true&show_icons=true&theme=prussian&include_all_commits=true&hide_border=true"/>
 </p>
+
+![](https://profile-counter.glitch.me/scarboroughcoral/count.svg)
