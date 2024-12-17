@@ -12,9 +12,9 @@
 ### Junior
 
 - Web3: Solidity
-- Game: Cocos/Unity/Bevy
+- Game: Bevy/Cocos/Unity
 - Native App: Tauri/Android
-- Web: NestJS/SpringBoot
+- Web: ActixWeb/NestJS/SpringBoot
 
 ### Interested in
 
