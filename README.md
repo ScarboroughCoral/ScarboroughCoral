@@ -6,7 +6,8 @@
 
 ### Tech Stack
 
-- Web Frontend Development: React/Angular/Typescript/Redux
+- Programming Language: Typescript/Python/Rust
+- Web Frontend Development: React/Angular/Redux/Ngrx/RxJs/Redux-Observable
 - Software Development: Electron/NodeJS
 
 ### Junior
