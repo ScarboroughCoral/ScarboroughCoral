@@ -47,3 +47,4 @@ My Home Page: [https://scarboroughcoral.github.io/](https://scarboroughcoral.git
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ScarboroughCoral&repo=FlappyBird&description_lines_count=3)](https://github.com/ScarboroughCoral/FlappyBird)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ScarboroughCoral&repo=logical-foundations&description_lines_count=3)](https://github.com/ScarboroughCoral/logical-foundations)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ScarboroughCoral&repo=tauri-vite-react-template&description_lines_count=3)](https://github.com/ScarboroughCoral/tauri-vite-react-template)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ScarboroughCoral&repo=tic-tac-toe-dioxus&description_lines_count=3)](https://github.com/ScarboroughCoral/tic-tac-toe-dioxus)
